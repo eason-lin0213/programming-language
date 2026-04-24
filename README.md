@@ -14,7 +14,10 @@
 ### ![image](https://github.com/eason-lin0213/programming-language/blob/main/image.png)
 ---
 ## HW3
-###![image](<img width="1885" height="865" alt="image" src="https://github.com/user-attachments/assets/33de7a26-6614-4b12-ae7a-71acc588c3e4" />)
+### [HW3](https://github.com/eason-lin0213/programming-language/blob/main/%E6%9E%97%E6%98%93%E8%BE%B0_HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb)
+### ![image](<img width="1885" height="865" alt="image" src="https://github.com/user-attachments/assets/b8cda75d-9469-426b-8637-0095f1b635f1" />)
+### ![image](<img width="1882" height="839" alt="image" src="https://github.com/user-attachments/assets/a7b08ff4-5438-4931-8228-38fce613fcb2" />)
+
 
 
 ---
