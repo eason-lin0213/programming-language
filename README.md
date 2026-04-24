@@ -15,8 +15,12 @@
 ---
 ## HW3
 ### [HW3](https://github.com/eason-lin0213/programming-language/blob/main/%E6%9E%97%E6%98%93%E8%BE%B0_HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb)
+### task
 ### ![image](https://github.com/eason-lin0213/programming-language/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-04-24%20135623.png)
+### pomodoro
 ### ![image](https://github.com/eason-lin0213/programming-language/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-04-24%20141023.png)
+### AI plan
+### ![image](https://github.com/eason-lin0213/programming-language/blob/main/FireShot%20Capture%20019%20-%20%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%EF%BC%8B%E7%95%AA%E8%8C%84%E9%90%98%EF%BC%8BAI%20%E8%A8%88%E7%95%AB%EF%BC%88Sheet_Gradio_%E7%88%AC%E8%9F%B2%EF%BC%89%20-%20%5B734332bef7fdd38d15.gradio.live%5D.png)
 
 
 
