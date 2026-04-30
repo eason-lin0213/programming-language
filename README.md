@@ -16,7 +16,7 @@
 ---
 ## HW3
 #### [HW3 tasks + pomodoro + AI plan影片](https://youtu.be/a8imWVyOVCU)
-#### [HW3 公告轉待辦影片](https://youtu.be/3hA1ck_uzps)
+#### [HW3 公告轉待辦影片](https://youtu.be/NCc2pgSTEAA)
 ### [HW3 code](https://github.com/eason-lin0213/programming-language/blob/main/%E6%9E%97%E6%98%93%E8%BE%B0_HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb)
 ### task
 ### ![image](https://github.com/eason-lin0213/programming-language/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-04-30%20140413.png)
