@@ -27,8 +27,6 @@
 ### ![image](https://github.com/eason-lin0213/programming-language/blob/main/FireShot%20Capture%20019%20-%20%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%EF%BC%8B%E7%95%AA%E8%8C%84%E9%90%98%EF%BC%8BAI%20%E8%A8%88%E7%95%AB%EF%BC%88Sheet_Gradio_%E7%88%AC%E8%9F%B2%EF%BC%89%20-%20%5B734332bef7fdd38d15.gradio.live%5D.png)
 ### 公告轉待辦
 ### ![image](https://github.com/eason-lin0213/programming-language/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-04-30%20140401.png)
-
-
-
 ---
 ## HW4
+#### [HW4](https://github.com/eason-lin0213/programming-language/blob/main/HW4_PTT_GoogleSheet_RAG%E6%95%B4%E7%90%86%E7%89%88.ipynb)
