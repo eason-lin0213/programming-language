@@ -29,5 +29,7 @@
 ### ![image](https://github.com/eason-lin0213/programming-language/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-04-30%20140401.png)
 ---
 ## HW4
-#### [HW4](https://github.com/eason-lin0213/programming-language/blob/main/HW4_PTT_GoogleSheet_RAG%E6%95%B4%E7%90%86%E7%89%88.ipynb)
-#### [HW4影片](https://youtu.be/MCUXc2x7b2I)
+### [HW4](https://github.com/eason-lin0213/programming-language/blob/main/HW4_PTT_GoogleSheet_RAG%E6%95%B4%E7%90%86%E7%89%88.ipynb)
+### [HW4影片](https://youtu.be/MCUXc2x7b2I)
+### ![image](https://github.com/eason-lin0213/programming-language/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-06-05%20145500.png)
+### ![image](https://github.com/eason-lin0213/programming-language/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-06-05%20145526.png)
