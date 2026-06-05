@@ -30,3 +30,4 @@
 ---
 ## HW4
 #### [HW4](https://github.com/eason-lin0213/programming-language/blob/main/HW4_PTT_GoogleSheet_RAG%E6%95%B4%E7%90%86%E7%89%88.ipynb)
+#### [HW4影片](https://youtu.be/MCUXc2x7b2I)
